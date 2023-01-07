@@ -36,6 +36,7 @@
 ## 📈 Contribution Graph:
 [![David's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=davidonuche&theme=tokyo-night)](https://github.com/davidonuche/github-readme-activity-graph)
  
-  ![Snake animation](https://github.com/davidonuche/davidonuche/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake:
+![Snake animation](https://github.com/davidonuche/davidonuche/blob/output/github-contribution-grid-snake.svg)
  
 </div>
