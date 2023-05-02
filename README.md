@@ -1,5 +1,8 @@
 # 💫 About Me:
-👀 I am David Onuche, a developer who develops mobile, web, and ios applications with Flutter, I am passionate about adding value to society at large through technology, and I am currently interning at Beatify as a mobile developer.<br>📫 How to reach me: twitter - @davidonuche0<br>⚡ Fun fact: coding is simple that is why it is complicated.<br>🔫 My Weapon: hp pavillion
+👀Hi, I'm David Onuche, a mobile developer with expertise in Flutter development. As the NASA lead at ile-ife and a core team member of the Google Developer Student Club at Oduduwa University Ipetumode, I'm passionate about using technology to solve complex problems and create innovative solutions.
+I studied political science at Oduduwa University Ipetumodu, but my love for programming led me to become a mobile developer. In addition to my work as a freelancer on Upwork, I've had the opportunity to work on various projects, including hackathons with Microsoft, NASA, Google, and the Solution Challenge.
+I'm also a content creator, running a YouTube channel where I teach Flutter development and share tips and tricks on software development. I'm currently working as a mobile developer at Vail Wallet, where I'm able to put my skills to use in a fast-paced startup environment.
+You can connect with me on GitHub, Twitter, and LinkedIn to stay up-to-date on my latest projects and insights. Let's connect and explore how we can work together to create the next great mobile app.<br>📫 How to reach me: twitter - @davidonuche0<br>⚡ Fun fact: coding is simple that is why it is complicated.<br>🔫 My Weapon: hp pavillion
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidonuche&label=Profile Views&color=orange&style=flat-square" alt="davidonuche" /> </p> 
 </br>
 
