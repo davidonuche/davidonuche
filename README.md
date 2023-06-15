@@ -4,7 +4,8 @@ I studied political science at Oduduwa University Ipetumodu, but my love for pro
 I'm also a content creator, running a YouTube channel where I teach Flutter development and share tips and tricks on software development. I'm currently working as a mobile developer at Vail Wallet, where I'm able to put my skills to use in a fast-paced startup environment.<br>📫 How to reach me: twitter - @davidonuche0<br>⚡ Fun fact: coding is simple that is why it is complicated.<br>🔫 My Weapon: hp pavillion
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidonuche&label=Profile Views&color=orange&style=flat-square" alt="davidonuche" /> </p> 
 </br>
-
+<a href="https://app.daily.dev/DavidOnuche"><img src="https://api.daily.dev/devcards/db94677f1d54486c96330ed4c49e3170.png?r=3l4" width="400" alt="David Onuche's Dev Card"/></a>
+</br>
  <div>
   <a href="https://github.com/davidonuche">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidonuche&layout=compact&langs_count=16&theme=dracula"/>
