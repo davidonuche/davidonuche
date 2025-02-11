@@ -40,7 +40,7 @@ I am studying political science at Oduduwa University Ipetumodu, but my love for
 [![David's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=davidonuche&theme=tokyo-night)](https://github.com/davidonuche/github-readme-activity-graph)
  
 ## 🐍 Contribution Snake:
-![Snake animation](https://github.com/davidonuche/davidonuche/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/davidonuche/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
