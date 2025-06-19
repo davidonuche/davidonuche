@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀Hi, I'm David Onuche, a mobile developer with expertise in Flutter development. As the NASA lead at ile-ife and a core team member of the Google Developer Student Club at Oduduwa University Ipetumode, I'm passionate about using technology to solve complex problems and create innovative solutions.
+👀Hi, I Am David Onuche, a mobile developer with expertise in Flutter development. As the NASA lead at ile-ife and a core team member of the Google Developer Student Club at Oduduwa University Ipetumode, I'm passionate about using technology to solve complex problems and create innovative solutions.
 I am studying political science at Oduduwa University Ipetumodu, but my love for programming led me to become a mobile developer. In addition to my work as a freelancer on Upwork, I've had the opportunity to work on various projects, including hackathons with Microsoft, NASA, Google, and Google Solution Challenge e.t.c.
 <br>📫 How to reach me: twitter - @davidonuche0<br>⚡ Fun fact: coding is simple that is why it is complicated.<br>🔫 My Weapon: hp pavillion
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidonuche&label=Profile Views&color=orange&style=flat-square" alt="davidonuche" /> </p> 
