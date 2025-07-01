@@ -97,6 +97,6 @@ I'm a passionate and mission-driven Nigerian developer, entrepreneur, and vision
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/iamdavidonuche/davidonuche/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/iamdavidonuche/iamdavidonuche/output/github-contribution-grid-snake.svg)
 
 ---
